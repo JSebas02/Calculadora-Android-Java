@@ -55,3 +55,9 @@ Ejecutar la aplicación mediante el botón Run.
   Finalidad académica
 
 Proyecto desarrollado como parte del proceso de aprendizaje de desarrollo de aplicaciones móviles Android, aplicando conceptos de programación en Java, diseño de interfaces XML y control de versiones con GitHub.
+
+
+##   Captura de pantalla
+
+![Calculadora Android](captura%20de%20pantalla%20de%20la%20calculadora.png)
+  
