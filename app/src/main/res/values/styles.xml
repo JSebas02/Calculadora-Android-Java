@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BotonCalculadora">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">76dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:backgroundTint">#414B62</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+    <style name="BotonOperacion"
+        parent="BotonCalculadora">
+        <item name="android:backgroundTint">#2854AC</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="BotonLimpiar"
+        parent="BotonCalculadora">
+        <item name="android:backgroundTint">#A84646</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>
